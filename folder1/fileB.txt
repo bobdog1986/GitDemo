@@ -1,1 +1,2 @@
 this is file B
+line2 in file B
